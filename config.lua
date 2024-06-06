@@ -19,7 +19,7 @@ Config.props = {
     [`prop_sec_barrier_ld_01a`]  = { { mode = DELETE } }, -- Parkings barrier
     [`prop_sec_barier_base_01`]  = { { mode = DELETE } }, -- Parkings barrier
    
-    -- Gas pumps (Avoid vehicles to desybc and break gas pumps, can be destroyed by pistols)
+    -- Gas pumps (Avoid vehicles to desync and break gas pumps, can be destroyed by pistols)
     [`prop_gas_pump_old2`]       = { { mode = FREEZE } },
     [`prop_gas_pump_1a`]         = { { mode = FREEZE } },
     [`prop_vintage_pump`]        = { { mode = FREEZE } },
